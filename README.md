@@ -64,7 +64,7 @@ beyond code, i am deeply invested in personal development and communities. i cur
 
 <br>
 
-![AWS](https://img.shields.io/badge/AWS-e8edf2?style=for-the-badge&logo=amazonwebservices&logoColor=6b7a8d)
+![AWS](https://img.shields.io/badge/AWS-e8edf2?style=for-the-badge&logo=amazonaws&logoColor=6b7a8d)
 ![Git](https://img.shields.io/badge/Git-e8edf2?style=for-the-badge&logo=git&logoColor=6b7a8d)
 
 </div>
