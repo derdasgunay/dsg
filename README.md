@@ -55,10 +55,19 @@ beyond code, i am deeply invested in personal development and communities. i cur
 ![Pandas](https://img.shields.io/badge/Pandas-e8edf2?style=for-the-badge&logo=pandas&logoColor=6b7a8d)
 ![NumPy](https://img.shields.io/badge/NumPy-e8edf2?style=for-the-badge&logo=numpy&logoColor=6b7a8d)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-e8edf2?style=for-the-badge&logo=scikitlearn&logoColor=6b7a8d)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-e8edf2?style=for-the-badge&logo=matplotlib&logoColor=6b7a8d)
 ![YOLO](https://img.shields.io/badge/YOLO-e8edf2?style=for-the-badge&logo=ultralytics&logoColor=6b7a8d)
 
 <br>
 
+### cloud & tools &nbsp;&nbsp;&nbsp; · · ·
+
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-e8edf2?style=for-the-badge&logo=amazonwebservices&logoColor=6b7a8d)
+![Git](https://img.shields.io/badge/Git-e8edf2?style=for-the-badge&logo=git&logoColor=6b7a8d)
+
+</div>
 ---
 
 <br>
