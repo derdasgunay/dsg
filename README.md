@@ -3,7 +3,8 @@
 ### hi, i'm derda &nbsp;·&nbsp; computer engineering student @ ankara university &nbsp;·&nbsp; ankara 
 
 <br>
-
+[![Portfolio](https://img.shields.io/badge/derda-sina-gunay.vercel.app-a8b5c8?style=flat-square&labelColor=f0f2f5)](https://recepbatuhandikmen.vercel.app/)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-derda--sina--günay-a8b5c8?style=flat-square&labelColor=f0f2f5&logo=linkedin&logoColor=6b7a8d)](https://linkedin.com/in/www.linkedin.com/in/derda-sina-günay)
 &nbsp;
 [![Mail](https://img.shields.io/badge/mail-gunayderdasina@gmail.com-a8b5c8?style=flat-square&labelColor=f0f2f5)](mailto:gunayderdasina@gmail.com)
