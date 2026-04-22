@@ -2,11 +2,9 @@
 
 ### hi, i'm derda &nbsp;·&nbsp; computer engineering student @ ankara university &nbsp;·&nbsp; ankara 
 
-<div align="center">
-
 <br>
 
-[![Portfolio](https://img.shields.io/badge/derda--sina--gunay.vercel.app-a8b5c8?style=flat-square&labelColor=f0f2f5)](https://derda-sina-gunay.vercel.app/)
+[![portfolio](https://img.shields.io/badge/portfolio-derdasinagunay.vercel.app-a8b5c8?style=flat-square&labelColor=f0f2f5)](https://derda-sina-gunay.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/linkedin-derda--sina--gunay-a8b5c8?style=flat-square&labelColor=f0f2f5&logo=linkedin&logoColor=6b7a8d)](https://www.linkedin.com/in/derda-sina-gunay)
 &nbsp;
